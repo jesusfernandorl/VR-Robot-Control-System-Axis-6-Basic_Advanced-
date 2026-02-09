@@ -33,7 +33,7 @@ IEC 61131-3 (Controladores Programables): Uso de lógica de enclavamiento para p
 
 Ergonomía UX/UI: Retroalimentación multimodal (Visual, Auditiva y Desplazamiento físico) para reducir la carga cognitiva del operador.
 
-## 📖 Documentación Detallada (Notion)
+## Documentación Detallada (Notion)
 
 Para un análisis más profundo sobre la metodología de investigación, bitácoras de desarrollo y gestión de activos, puedes consultar mis espacios de trabajo en Notion:
 
